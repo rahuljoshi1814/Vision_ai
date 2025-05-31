@@ -1,9 +1,9 @@
-opencv-python
-numpy
-torch
-torchvision
-Pillow
-easyOCR
-opencv-python
 streamlit
+opencv-python
+Pillow
+easyocr
+torch
+numpy
+matplotlib
+scikit-learn
 ultralytics
